@@ -75,10 +75,6 @@ API runs at `https://localhost:7000` by default. Swagger UI is available at `/sw
 - **Clean Architecture** — the domain layer has zero external dependencies; infrastructure concerns (DB, HTTP) are injected at the API layer.
 - **FluentMigrator** — database schema changes are versioned and applied on startup.
 
-## Related
-
-- Frontend (React + Vite): [MyPortfolio](https://github.com/phoiswak/MyPortfolio) — live at [my-portfolio-plum-six-15.vercel.app](https://my-portfolio-plum-six-15.vercel.app)
-
 ## Contact
 
 - Email: phosiwak@gmail.com
