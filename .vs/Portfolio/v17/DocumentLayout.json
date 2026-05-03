@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|solutionrelative:src\\portfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.api\\portfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|solutionrelative:src\\portfolio.api\\portfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC4BF7E-967D-43A2-B3DB-FA724A5ECFA4}|src\\Portfolio.Application\\Portfolio.Application.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.application\\portfolio.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EC4BF7E-967D-43A2-B3DB-FA724A5ECFA4}|src\\Portfolio.Application\\Portfolio.Application.csproj|solutionrelative:src\\portfolio.application\\portfolio.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B20107B-DD28-4F70-AE49-B5493A7A7D50}|src\\Portfolio.Domain\\Portfolio.Domain.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.domain\\portfolio.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B20107B-DD28-4F70-AE49-B5493A7A7D50}|src\\Portfolio.Domain\\Portfolio.Domain.csproj|solutionrelative:src\\portfolio.domain\\portfolio.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798D79C9-E21B-4064-A551-79DD33C02424}|src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.infrastructure\\portfolio.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{798D79C9-E21B-4064-A551-79DD33C02424}|src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj|solutionrelative:src\\portfolio.infrastructure\\portfolio.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|solutionrelative:src\\portfolio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|solutionrelative:src\\portfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B20107B-DD28-4F70-AE49-B5493A7A7D50}|src\\Portfolio.Domain\\Portfolio.Domain.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B20107B-DD28-4F70-AE49-B5493A7A7D50}|src\\Portfolio.Domain\\Portfolio.Domain.csproj|solutionrelative:src\\portfolio.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798D79C9-E21B-4064-A551-79DD33C02424}|src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.infrastructure\\data\\portfoliodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798D79C9-E21B-4064-A551-79DD33C02424}|src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj|solutionrelative:src\\portfolio.infrastructure\\data\\portfoliodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC4BF7E-967D-43A2-B3DB-FA724A5ECFA4}|src\\Portfolio.Application\\Portfolio.Application.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC4BF7E-967D-43A2-B3DB-FA724A5ECFA4}|src\\Portfolio.Application\\Portfolio.Application.csproj|solutionrelative:src\\portfolio.application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC4BF7E-967D-43A2-B3DB-FA724A5ECFA4}|src\\Portfolio.Application\\Portfolio.Application.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.application\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC4BF7E-967D-43A2-B3DB-FA724A5ECFA4}|src\\Portfolio.Application\\Portfolio.Application.csproj|solutionrelative:src\\portfolio.application\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B895FC-BBC5-4701-83B9-83CD716CDDE4}|src\\Portfolio.API\\Portfolio.API.csproj|solutionrelative:src\\portfolio.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798D79C9-E21B-4064-A551-79DD33C02424}|src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj|c:\\users\\phosi\\documents\\myprotfoliowebsite\\src\\portfolio.infrastructure\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798D79C9-E21B-4064-A551-79DD33C02424}|src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj|solutionrelative:src\\portfolio.infrastructure\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Portfolio.Domain",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Domain\\Portfolio.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Portfolio.Domain\\Portfolio.Domain.csproj",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Domain\\Portfolio.Domain.csproj",
+              "RelativeToolTip": "src\\Portfolio.Domain\\Portfolio.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T20:10:55.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Portfolio.Application",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Application\\Portfolio.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Portfolio.Application\\Portfolio.Application.csproj",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Application\\Portfolio.Application.csproj",
+              "RelativeToolTip": "src\\Portfolio.Application\\Portfolio.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T20:10:41.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Portfolio.API",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\Portfolio.API.csproj",
+              "RelativeDocumentMoniker": "src\\Portfolio.API\\Portfolio.API.csproj",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\Portfolio.API.csproj",
+              "RelativeToolTip": "src\\Portfolio.API\\Portfolio.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T20:08:29.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "src\\Portfolio.Domain\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "src\\Portfolio.Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:17:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Application\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "src\\Portfolio.Application\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Application\\Services\\ProjectService.cs",
+              "RelativeToolTip": "src\\Portfolio.Application\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:17:12.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Portfolio.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Portfolio.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T19:16:46.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PortfolioDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Infrastructure\\Data\\PortfolioDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Portfolio.Infrastructure\\Data\\PortfolioDbContext.cs",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Infrastructure\\Data\\PortfolioDbContext.cs",
+              "RelativeToolTip": "src\\Portfolio.Infrastructure\\Data\\PortfolioDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:15:49.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "src\\Portfolio.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "src\\Portfolio.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:03:40.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Portfolio.API\\Program.cs",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\Program.cs",
+              "RelativeToolTip": "src\\Portfolio.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T18:58:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Portfolio.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T20:11:01.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Application\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "src\\Portfolio.Application\\Interfaces\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Application\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "src\\Portfolio.Application\\Interfaces\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:03:20.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Portfolio.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.API\\appsettings.json",
+              "RelativeToolTip": "src\\Portfolio.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T19:33:25.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "src\\Portfolio.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\phosi\\Documents\\MyProtfolioWebsite\\src\\Portfolio.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "src\\Portfolio.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:03:26.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
